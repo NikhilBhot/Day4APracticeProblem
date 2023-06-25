@@ -7,6 +7,9 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Array List CRUD Opeartion");
             ArrayListCRUDOperation.ArrayListMethod();
+            Console.WriteLine("____________________________");
+            Console.WriteLine("Dictionary CRUD Opeartion");
+            DictionaryCRUDOpearion.DictionaryCRUDOperationMethod();
         }
     }
 }
